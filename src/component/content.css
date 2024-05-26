@@ -1,0 +1,7 @@
+.content{
+    height: auto;
+    width: 95%;
+    box-shadow:  8px 8px 6px rgba(0, 0, 0, 0.1);
+    padding: 1rem;
+    background-color: white;
+}
